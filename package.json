@@ -1,0 +1,11 @@
+{
+  "name": "chat_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Devendra",
+  "license": "ISC"
+}
